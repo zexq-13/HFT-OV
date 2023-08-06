@@ -10,6 +10,19 @@ Kernel Optimization for better execution speeds and multiprocessing. Rewrite sof
 
 ## Algorithmic Trading
 
+**Course**:
+
+[Trading Strategies in Emerging Markets Specialization](https://www.coursera.org/specializations/trading-strategy)
+
+[Financial Engineering and Risk Management Specialization](https://www.coursera.org/specializations/financialengineering)
+
+**Book:** 
+
+An Introduction to Algorithmic Trading
+ 
+**Specific:**
+
+
 ## Time-series analysis
 
 ## Custom Languages
